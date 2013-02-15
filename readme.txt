@@ -1,0 +1,25 @@
+Latex mode for Coda 2
+
+INSTALLATION:
+Drag the file to Coda 2 to install it.
+
+CHANGELOG (from package):
+By Robbert Bloem:
+Changes for Coda 2.0
+    *) added scopes in SyntaxDefinition.xml
+    *) added CodaCompletion.plist for comment/uncomment
+
+By Michael J. Barber:
+Changes with Version 3.5  (SEE 3.5)
+	 *) added code folding
+
+Changes with Version 1.3 (SEE 3.1)
+    *) structure keywords bold
+    *) inline math state
+    *) adding scripts by Michael J. Barber
+
+Changes with Version 1.2 (SEE 3.0.2)
+    *) fixed non-recognition of Symbols
+
+Changes with Version 1.1
+    *) EXTENSIONS: Added uppercase variants where appropriate.
